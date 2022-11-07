@@ -4,6 +4,8 @@
 /*=============== VARIABLES CSS ===============*/
 :root {
   --header-height: 3rem;
+  --surface-color: #fff;
+  --curve: 40;
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
@@ -111,6 +113,7 @@ button {
 img {
   max-width: 100%;
   height: auto;
+  border-radius: 20px;
 }
 
 /*=============== REUSABLE CSS CLASSES ===============*/
@@ -212,9 +215,7 @@ img {
   }
 
   .container {
-    margin-left: var(--mb-1);
-    margin-right: var(--mb-1);
+    margin-left: var(--mb-1) ;
+    margin-right: var(--mb-1) ;
   }
 }
-
-
