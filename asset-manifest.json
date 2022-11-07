@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.391c3764.css",
+    "main.js": "/static/js/main.926a54f2.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/about.jpg": "/static/media/about.b81b3b99657f81159e9b.jpg",
+    "static/media/profile.jpg": "/static/media/profile.997846b8c2a57bcbde40.jpg",
+    "static/media/ashiqul-islam-cv.pdf": "/static/media/ashiqul-islam-cv.5a343dd304b320535b92.pdf",
+    "static/media/about - Copy.jpg": "/static/media/about - Copy.25037666cca34f8f569a.jpg",
+    "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/index.html",
+    "main.391c3764.css.map": "/static/css/main.391c3764.css.map",
+    "main.926a54f2.js.map": "/static/js/main.926a54f2.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391c3764.css",
+    "static/js/main.926a54f2.js"
+  ]
+}
